@@ -1,0 +1,244 @@
+{
+    "items": [
+        {
+            "name": "long-sword",
+            "price": 350,
+            "stats": {
+                "AttackDamage": 10
+            },
+            "id": 1036,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "glowing-mote",
+            "price": 250,
+            "stats": {
+                "AbilityHaste": 5
+            },
+            "id": 2022,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "amplifying-tome",
+            "price": 400,
+            "stats": {
+                "AbilityPower": 20
+            },
+            "id": 1052,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "cloth-armor",
+            "price": 300,
+            "stats": {
+                "Armor": 15
+            },
+            "id": 1029,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "null-magic-mantle",
+            "price": 450,
+            "stats": {
+                "MagicResist": 25
+            },
+            "id": 1033,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "ruby-crystal",
+            "price": 400,
+            "stats": {
+                "Health": 150
+            },
+            "id": 1028,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "sapphire-crystal",
+            "price": 350,
+            "stats": {
+                "Mana": 250
+            },
+            "id": 1027,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "rejuvenation-bead",
+            "price": 300,
+            "stats": {
+                "HealthRegen": 100
+            },
+            "id": 1006,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "faerie-charm",
+            "price": 250,
+            "stats": {
+                "ManaRegen": 50
+            },
+            "id": 1004,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "cloak-of-agility",
+            "price": 600,
+            "stats": {
+                "CritChance": 15
+            },
+            "id": 1018,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "dagger",
+            "price": 300,
+            "stats": {
+                "AttackSpeed": 12
+            },
+            "id": 1042,
+            "builds-into": [
+                
+            ]
+        },
+        {
+            "name": "boots-of-speed",
+            "price": 300, 
+            "stats": {
+                "FlatMovespeed": 25
+            },
+            "id": 1001,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "vampiric-scepter",
+            "price": 900, 
+            "stats": {
+                "AttackDamage": 15,
+                "LifeSteal": 7 
+            },
+            "id": 1053,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "last-whisper",
+            "price": 1450, 
+            "stats": {
+                "AttackDamage": 20,
+                "PercentArmorPen": 18
+            },
+            "id": 3035,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "sorcerers-shoes",
+            "price": 1100, 
+            "stats": {
+                "FlatMovespeed": 45,
+                "FlatMagicPen": 18
+            },
+            "id": 3020,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "blightning-jewel",
+            "price": 1100, 
+            "stats": {
+                "AbilityPower": 25,
+                "PercentMagicPen": 13
+            },
+            "id": 4630,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "recurve-bow",
+            "price": 700, 
+            "stats": {
+                "AttackSpeed": 15,
+                "OnHit": 15
+            },
+            "id": 1043,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "winged-moonplate",
+            "price": 800, 
+            "stats": {
+                "PercentMovespeed": 5,
+                "Health": 150
+            },
+            "id": 3066,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "forbidden-idol",
+            "price": 800, 
+            "stats": {
+                "HealAndShieldPower": 8,
+                "ManaRegen": 50
+            },
+            "id": 3114,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "rabadons-deathcap",
+            "price": 3600, 
+            "stats": {
+                "AbilityPower": 140
+            },
+            "id": 3089,
+            "builds-into": [
+
+            ]
+        },
+        {
+            "name": "rod-of-ages",
+            "price": 2600, 
+            "stats": {
+                "AbilityPower": 50,
+                "Health": 350,
+                "Mana": 300
+            },
+            "id": 6657,
+            "builds-into": [
+
+            ]
+        }
+    ]
+}
